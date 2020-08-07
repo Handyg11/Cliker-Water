@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5269298752579658005
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2885247010170500286}
+  - component: {fileID: 8001242060412345344}
+  m_Layer: 0
+  m_Name: GameControl
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2885247010170500286
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5269298752579658005}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 266.93948, y: 101.18853, z: -0.125}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8001242060412345344
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5269298752579658005}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97d8aacf3d786bb4fa967f1922aa44b7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  moneyAmount: 0
+  moneyPerClick: 1
+  gpsAmount: 0
+  prestigePercent: 0
+  stock: 0
+  moneyText: {fileID: 0}
+  gpsText: {fileID: 0}
+  stockText: {fileID: 0}
+  addMoneyTxT: {fileID: 6754897648830234629, guid: b7f0acc953239db4791628968136c707,
+    type: 3}
+  prestigeBtn: {fileID: 0}
+  hidden1: {fileID: 0}
+  hidden2: {fileID: 0}
+  hidden3: {fileID: 0}
+  hidden4: {fileID: 0}
+  hidden5: {fileID: 0}
+  hidden6: {fileID: 0}
+  hidden7: {fileID: 0}
+  water1: {fileID: 0}
+  water2: {fileID: 0}
+  water3: {fileID: 0}
+  water4: {fileID: 0}
+  water5: {fileID: 0}
+  water6: {fileID: 0}
+  water7: {fileID: 0}
+  um1: {fileID: 0}
+  um2: {fileID: 0}
+  um3: {fileID: 0}
+  um4: {fileID: 0}
+  um5: {fileID: 0}
+  um6: {fileID: 0}
+  um7: {fileID: 0}
+  moneyTransform: {fileID: 0}
